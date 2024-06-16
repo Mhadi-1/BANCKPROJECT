@@ -1,0 +1,1 @@
+#include "clsCuranncy.h"
